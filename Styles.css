@@ -113,17 +113,17 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #111;
+    color:grey;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: orange;
+    color: black;
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: black;
 }
 
 /* menu btn styling */
